@@ -1,0 +1,11 @@
+C:\Users\proko\source\repos\avabpro\QuizTime\QuizTime\bin\Debug\netcoreapp3.1\QuizTime.exe
+C:\Users\proko\source\repos\avabpro\QuizTime\QuizTime\bin\Debug\netcoreapp3.1\QuizTime.deps.json
+C:\Users\proko\source\repos\avabpro\QuizTime\QuizTime\bin\Debug\netcoreapp3.1\QuizTime.runtimeconfig.json
+C:\Users\proko\source\repos\avabpro\QuizTime\QuizTime\bin\Debug\netcoreapp3.1\QuizTime.runtimeconfig.dev.json
+C:\Users\proko\source\repos\avabpro\QuizTime\QuizTime\bin\Debug\netcoreapp3.1\QuizTime.dll
+C:\Users\proko\source\repos\avabpro\QuizTime\QuizTime\bin\Debug\netcoreapp3.1\QuizTime.pdb
+C:\Users\proko\source\repos\avabpro\QuizTime\QuizTime\obj\Debug\netcoreapp3.1\QuizTime.csprojAssemblyReference.cache
+C:\Users\proko\source\repos\avabpro\QuizTime\QuizTime\obj\Debug\netcoreapp3.1\QuizTime.AssemblyInfoInputs.cache
+C:\Users\proko\source\repos\avabpro\QuizTime\QuizTime\obj\Debug\netcoreapp3.1\QuizTime.AssemblyInfo.cs
+C:\Users\proko\source\repos\avabpro\QuizTime\QuizTime\obj\Debug\netcoreapp3.1\QuizTime.dll
+C:\Users\proko\source\repos\avabpro\QuizTime\QuizTime\obj\Debug\netcoreapp3.1\QuizTime.pdb
