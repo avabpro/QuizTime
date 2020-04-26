@@ -34,9 +34,7 @@ namespace QuizTime
     }
 
     public abstract class Question
-    {
-        private string prompt;        
-        
+    {        
         public string Prompt { get; set; }
 
         public abstract string DisplayPrompt();
@@ -53,8 +51,6 @@ namespace QuizTime
 
     public class TrueFalse : Question
     {
-        private bool answer;
-
         public bool Answer { get; set; }
 
         public TrueFalse(string prompt, bool answer)
@@ -96,9 +92,6 @@ namespace QuizTime
 
     public class MultipleChoice : Question
     {
-        private char answer;
-        private List<string> options;
-
         public char Answer { get; set; }
         public List<string> Options { get; set; }
 
@@ -142,8 +135,6 @@ namespace QuizTime
 
     public class CheckBox : Question
     {
-        private List<char> answer;
-        private List<string> options;
 
         public List<char> Answer { get; set; }
         public List<string> Options { get; set; }
